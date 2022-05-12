@@ -1,8 +1,9 @@
 ### Hi there 👋 
+<div>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nadezhda-gidikova)](https://github.com/nadezhda-gidikova)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadezhda-gidikova&layout=compact)](https://github.com/nadezhda-gidikova)
-
+</div>
 - 🌱 Currently studying Software Engineering with C# and Java Script at the Software University
 - 💌 Email: nadezhda_gidikova@yahoo.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/nadezhda-gidikova-31525b69/">Nadezhda Gidikova</a>  
