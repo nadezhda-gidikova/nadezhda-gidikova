@@ -1,5 +1,9 @@
 ### Hi there 👋 
 <div>
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=nadezhda-gidikova&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadezhda-gidikova&layout=compact" />
+</div>
+<div>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nadezhda-gidikova)](https://github.com/nadezhda-gidikova)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadezhda-gidikova&layout=compact)](https://github.com/nadezhda-gidikova)
