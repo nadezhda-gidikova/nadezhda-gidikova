@@ -23,6 +23,8 @@
 |<a href="https://softuni.bg/trainings/3008/csharp-oop-october-2020"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/120553/6550f262"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>| <a href="https://softuni.bg/certificates/details/126322/c2acc0dd">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href="https://softuni.bg/certificates/details/132656/b18a2963"> :heavy_check_mark:  Certificate</a> |
+|<a href="https://softuni.bg/trainings/3714/ms-sql-may-2022"> MS SQL </a>| <a href="https://softuni.bg/certificates/details/135049/57a498a0"> :heavy_check_mark:  Certificate</a> |
+
 
 <!--
 **nadezhda-gidikova/nadezhda-gidikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
