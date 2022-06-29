@@ -20,6 +20,7 @@
 |<a href="https://softuni.bg/trainings/2768/programming-basics-with-c-sharp-february-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/101765/09b34234"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/2830/csharp-fundamentals-may-2020"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/111604/ae2eca5e"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3007/csharp-advanced-september-2020"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/114400/96c06c9d"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3707/js-advanced-may-2022"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/136680/70e5c744"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3008/csharp-oop-october-2020"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/120553/6550f262"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021"> C# Web Basics </a>| <a href="https://softuni.bg/certificates/details/126322/c2acc0dd">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href="https://softuni.bg/certificates/details/132656/b18a2963"> :heavy_check_mark:  Certificate</a> |
